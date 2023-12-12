@@ -1,0 +1,348 @@
+{
+    "controlador.lista.LinkedList": {
+        "head": {
+            "data": {
+                "@class": "modelo.Censo",
+                "id": 1,
+                "nombre": "Andres",
+                "edad": 20,
+                "estado": "Separado",
+                "fecha": "2020-03-20 05:00:00.0 UTC",
+                "estadoEmocional": "Feliz",
+                "censador": {
+                    "id": 5,
+                    "nombre": "Adrian",
+                    "codigo": "0000000005"
+                },
+                "motivo": "Infelidad"
+            },
+            "next": {
+                "data": {
+                    "@class": "modelo.Censo",
+                    "id": 2,
+                    "nombre": "Mario",
+                    "edad": 50,
+                    "estado": "Divorciado",
+                    "fecha": "1998-02-02 05:00:00.0 UTC",
+                    "estadoEmocional": "Regular",
+                    "censador": {
+                        "id": 8,
+                        "nombre": "Cristian",
+                        "codigo": "0000000008"
+                    },
+                    "motivo": "Ruptura por  Desacuerdos Legales"
+                },
+                "next": {
+                    "data": {
+                        "@class": "modelo.Censo",
+                        "id": 3,
+                        "nombre": "Bryan",
+                        "edad": 45,
+                        "estado": "Separado",
+                        "fecha": "2013-08-05 05:00:00.0 UTC",
+                        "estadoEmocional": "Feliz",
+                        "censador": {
+                            "id": 6,
+                            "nombre": "Rox",
+                            "codigo": "0000000006"
+                        },
+                        "motivo": "Ruptura"
+                    },
+                    "next": {
+                        "data": {
+                            "@class": "modelo.Censo",
+                            "id": 4,
+                            "nombre": "Maria",
+                            "edad": 54,
+                            "estado": "Divorciado",
+                            "fecha": "1998-05-05 05:00:00.0 UTC",
+                            "estadoEmocional": "Feliz",
+                            "censador": {
+                                "id": 2,
+                                "nombre": "Lucas",
+                                "codigo": "0000000002"
+                            },
+                            "motivo": "Infidelidad"
+                        },
+                        "next": {
+                            "data": {
+                                "@class": "modelo.Censo",
+                                "id": 5,
+                                "nombre": "Alex",
+                                "edad": 45,
+                                "estado": "Separado",
+                                "fecha": "1850-04-22 05:00:00.0 UTC",
+                                "estadoEmocional": "Mal",
+                                "censador": {
+                                    "id": 1,
+                                    "nombre": "Marcos",
+                                    "codigo": "0000000001"
+                                },
+                                "motivo": "Intento de Homicidio"
+                            },
+                            "next": {
+                                "data": {
+                                    "@class": "modelo.Censo",
+                                    "id": 6,
+                                    "nombre": "Felipe",
+                                    "edad": 54,
+                                    "estado": "Divorciado",
+                                    "fecha": "2000-05-30 05:00:00.0 UTC",
+                                    "estadoEmocional": "Feliz",
+                                    "censador": {
+                                        "id": 3,
+                                        "nombre": "Matias",
+                                        "codigo": "0000000003"
+                                    },
+                                    "motivo": "Infidelidad\n"
+                                },
+                                "next": {
+                                    "data": {
+                                        "@class": "modelo.Censo",
+                                        "id": 7,
+                                        "nombre": "Jose",
+                                        "edad": 43,
+                                        "estado": "Divorciado",
+                                        "fecha": "2001-02-20 05:00:00.0 UTC",
+                                        "estadoEmocional": "Feliz",
+                                        "censador": {
+                                            "id": 1,
+                                            "nombre": "Marcos",
+                                            "codigo": "0000000001"
+                                        },
+                                        "motivo": "Infedelidad\n"
+                                    },
+                                    "next": {
+                                        "data": {
+                                            "@class": "modelo.Censo",
+                                            "id": 8,
+                                            "nombre": "Aquino",
+                                            "edad": 43,
+                                            "estado": "Divorciado",
+                                            "fecha": "1895-03-02 05:00:00.0 UTC",
+                                            "estadoEmocional": "Regular",
+                                            "censador": {
+                                                "id": 1,
+                                                "nombre": "Marcos",
+                                                "codigo": "0000000001"
+                                            },
+                                            "motivo": "Ruptura"
+                                        },
+                                        "next": {
+                                            "data": {
+                                                "@class": "modelo.Censo",
+                                                "id": 9,
+                                                "nombre": "Joshelyn",
+                                                "edad": 54,
+                                                "estado": "Divorciado",
+                                                "fecha": "2005-02-20 05:00:00.0 UTC",
+                                                "estadoEmocional": "Regular",
+                                                "censador": {
+                                                    "id": 5,
+                                                    "nombre": "Adrian",
+                                                    "codigo": "0000000005"
+                                                },
+                                                "motivo": "No se"
+                                            },
+                                            "next": {
+                                                "data": {
+                                                    "@class": "modelo.Censo",
+                                                    "id": 10,
+                                                    "nombre": "Keyla",
+                                                    "edad": 45,
+                                                    "estado": "Divorciado",
+                                                    "fecha": "2002-05-25 05:00:00.0 UTC",
+                                                    "estadoEmocional": "Regular",
+                                                    "censador": {
+                                                        "id": 1,
+                                                        "nombre": "Marcos",
+                                                        "codigo": "0000000001"
+                                                    },
+                                                    "motivo": "No Info"
+                                                },
+                                                "next": {
+                                                    "data": {
+                                                        "@class": "modelo.Censo",
+                                                        "id": 11,
+                                                        "nombre": "Valeria",
+                                                        "edad": 43,
+                                                        "estado": "Divorciado",
+                                                        "fecha": "1999-02-15 05:00:00.0 UTC",
+                                                        "estadoEmocional": "Regular",
+                                                        "censador": {
+                                                            "id": 1,
+                                                            "nombre": "Marcos",
+                                                            "codigo": "0000000001"
+                                                        },
+                                                        "motivo": "Idk"
+                                                    },
+                                                    "next": {
+                                                        "data": {
+                                                            "@class": "modelo.Censo",
+                                                            "id": 12,
+                                                            "nombre": "Daniel",
+                                                            "edad": 43,
+                                                            "estado": "Divorciado",
+                                                            "fecha": "1299-02-15 05:00:00.0 UTC",
+                                                            "estadoEmocional": "Regular",
+                                                            "censador": {
+                                                                "id": 1,
+                                                                "nombre": "Marcos",
+                                                                "codigo": "0000000001"
+                                                            },
+                                                            "motivo": "No se sabe"
+                                                        },
+                                                        "next": {
+                                                            "data": {
+                                                                "@class": "modelo.Censo",
+                                                                "id": 13,
+                                                                "nombre": "Raymon",
+                                                                "edad": 45,
+                                                                "estado": "Divorciado",
+                                                                "fecha": "1992-02-15 05:00:00.0 UTC",
+                                                                "estadoEmocional": "Regular",
+                                                                "censador": {
+                                                                    "id": 7,
+                                                                    "nombre": "Carlitos",
+                                                                    "codigo": "0000000007"
+                                                                },
+                                                                "motivo": "Diavlo"
+                                                            },
+                                                            "next": {
+                                                                "data": {
+                                                                    "@class": "modelo.Censo",
+                                                                    "id": 14,
+                                                                    "nombre": "Kevin",
+                                                                    "edad": 43,
+                                                                    "estado": "Separado",
+                                                                    "fecha": "1999-05-25 05:00:00.0 UTC",
+                                                                    "estadoEmocional": "Regular",
+                                                                    "censador": {
+                                                                        "id": 7,
+                                                                        "nombre": "Carlitos",
+                                                                        "codigo": "0000000007"
+                                                                    },
+                                                                    "motivo": "Infidelidad"
+                                                                },
+                                                                "next": {
+                                                                    "data": {
+                                                                        "@class": "modelo.Censo",
+                                                                        "id": 15,
+                                                                        "nombre": "Toro",
+                                                                        "edad": 46,
+                                                                        "estado": "Separado",
+                                                                        "fecha": "1999-05-25 05:00:00.0 UTC",
+                                                                        "estadoEmocional": "Regular",
+                                                                        "censador": {
+                                                                            "id": 1,
+                                                                            "nombre": "Marcos",
+                                                                            "codigo": "0000000001"
+                                                                        },
+                                                                        "motivo": "Idk"
+                                                                    },
+                                                                    "next": {
+                                                                        "data": {
+                                                                            "@class": "modelo.Censo",
+                                                                            "id": 16,
+                                                                            "nombre": "Sidney",
+                                                                            "edad": 20,
+                                                                            "estado": "Divorciado",
+                                                                            "fecha": "1999-05-25 05:00:00.0 UTC",
+                                                                            "estadoEmocional": "Feliz",
+                                                                            "censador": {
+                                                                                "id": 1,
+                                                                                "nombre": "Marcos",
+                                                                                "codigo": "0000000001"
+                                                                            },
+                                                                            "motivo": "Idk"
+                                                                        },
+                                                                        "next": {
+                                                                            "data": {
+                                                                                "@class": "modelo.Censo",
+                                                                                "id": 17,
+                                                                                "nombre": "Example",
+                                                                                "edad": 3442,
+                                                                                "estado": "Divorciado",
+                                                                                "fecha": "1999-05-25 05:00:00.0 UTC",
+                                                                                "estadoEmocional": "Feliz",
+                                                                                "censador": {
+                                                                                    "id": 1,
+                                                                                    "nombre": "Marcos",
+                                                                                    "codigo": "0000000001"
+                                                                                },
+                                                                                "motivo": "d"
+                                                                            },
+                                                                            "next": {
+                                                                                "data": {
+                                                                                    "@class": "modelo.Censo",
+                                                                                    "id": 18,
+                                                                                    "nombre": "Example",
+                                                                                    "edad": 435,
+                                                                                    "estado": "Divorciado",
+                                                                                    "fecha": "1999-05-25 05:00:00.0 UTC",
+                                                                                    "estadoEmocional": "Feliz",
+                                                                                    "censador": {
+                                                                                        "id": 1,
+                                                                                        "nombre": "Marcos",
+                                                                                        "codigo": "0000000001"
+                                                                                    },
+                                                                                    "motivo": "idk"
+                                                                                },
+                                                                                "next": {
+                                                                                    "data": {
+                                                                                        "@class": "modelo.Censo",
+                                                                                        "id": 19,
+                                                                                        "nombre": "Rey",
+                                                                                        "edad": 432,
+                                                                                        "estado": "Divorciado",
+                                                                                        "fecha": "1999-05-25 05:00:00.0 UTC",
+                                                                                        "estadoEmocional": "Feliz",
+                                                                                        "censador": {
+                                                                                            "id": 1,
+                                                                                            "nombre": "Marcos",
+                                                                                            "codigo": "0000000001"
+                                                                                        },
+                                                                                        "motivo": "idk"
+                                                                                    },
+                                                                                    "next": {
+                                                                                        "data": {
+                                                                                            "@class": "modelo.Censo",
+                                                                                            "id": 20,
+                                                                                            "nombre": "Emilio",
+                                                                                            "edad": 19,
+                                                                                            "estado": "Divorciado",
+                                                                                            "fecha": "2023-12-25 05:00:00.0 UTC",
+                                                                                            "estadoEmocional": "Feliz",
+                                                                                            "censador": {
+                                                                                                "id": 1,
+                                                                                                "nombre": "Marcos",
+                                                                                                "codigo": "0000000001"
+                                                                                            },
+                                                                                            "motivo": "Nunca paso"
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "last": {
+            "@reference": "..\/head\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next"
+        },
+        "size": 20
+    }
+}
