@@ -1,0 +1,308 @@
+{
+    "controlador.TDA.listas.LinkedList": {
+        "head": {
+            "data": {
+                "@class": "modelo.Antena",
+                "id": 1,
+                "nombre": "X",
+                "latitud": 12,
+                "longitud": 32,
+                "foto": "198d18dd-c088-48e5-a666-5acd15f8c011jpeg"
+            },
+            "next": {
+                "data": {
+                    "@class": "modelo.Antena",
+                    "id": 2,
+                    "nombre": "Y",
+                    "latitud": 43,
+                    "longitud": 23,
+                    "foto": "38409f91-cf6d-4246-9f59-8a43669ba26ajpeg"
+                },
+                "next": {
+                    "data": {
+                        "@class": "modelo.Antena",
+                        "id": 3,
+                        "nombre": "A",
+                        "latitud": 54,
+                        "longitud": -11,
+                        "foto": "69c06c5d-3ea8-4d07-b2f2-77c61d2f07e6jpeg"
+                    },
+                    "next": {
+                        "data": {
+                            "@class": "modelo.Antena",
+                            "id": 4,
+                            "nombre": "B",
+                            "latitud": -23,
+                            "longitud": 12,
+                            "foto": "0c646196-f476-46df-8feb-58a983241b7cjpeg"
+                        },
+                        "next": {
+                            "data": {
+                                "@class": "modelo.Antena",
+                                "id": 5,
+                                "nombre": "C",
+                                "latitud": 43,
+                                "longitud": 65,
+                                "foto": "cf703102-65b0-466f-b8a1-957606b5fd51jpeg"
+                            },
+                            "next": {
+                                "data": {
+                                    "@class": "modelo.Antena",
+                                    "id": 6,
+                                    "nombre": "D",
+                                    "latitud": 54,
+                                    "longitud": 12,
+                                    "foto": "b66265ef-a657-404a-b869-800d7da10a14jpeg"
+                                },
+                                "next": {
+                                    "data": {
+                                        "@class": "modelo.Antena",
+                                        "id": 7,
+                                        "nombre": "E",
+                                        "latitud": 65,
+                                        "longitud": 122,
+                                        "foto": "2ce25c16-91f4-442f-bd99-6c176aba2417jpeg"
+                                    },
+                                    "next": {
+                                        "data": {
+                                            "@class": "modelo.Antena",
+                                            "id": 8,
+                                            "nombre": "F",
+                                            "latitud": 765,
+                                            "longitud": 222,
+                                            "foto": "62047f01-ebc9-45ea-abcc-cb701d9bd5e1jpeg"
+                                        },
+                                        "next": {
+                                            "data": {
+                                                "@class": "modelo.Antena",
+                                                "id": 9,
+                                                "nombre": "G",
+                                                "latitud": 454,
+                                                "longitud": 333,
+                                                "foto": "7d08b2a2-3b70-4f9a-a285-9f8af0d3359cjpeg"
+                                            },
+                                            "next": {
+                                                "data": {
+                                                    "@class": "modelo.Antena",
+                                                    "id": 10,
+                                                    "nombre": "H",
+                                                    "latitud": 111,
+                                                    "longitud": 222,
+                                                    "foto": "58aaef31-df87-44a9-b2a1-70df8ae4a943jpeg"
+                                                },
+                                                "next": {
+                                                    "data": {
+                                                        "@class": "modelo.Antena",
+                                                        "id": 11,
+                                                        "nombre": "I",
+                                                        "latitud": 433,
+                                                        "longitud": 233,
+                                                        "foto": "10cdf399-88bf-434a-a111-a87cf3cf3294jpeg"
+                                                    },
+                                                    "next": {
+                                                        "data": {
+                                                            "@class": "modelo.Antena",
+                                                            "id": 12,
+                                                            "nombre": "J",
+                                                            "latitud": 55,
+                                                            "longitud": 2,
+                                                            "foto": "96e1f38c-4b1b-42fa-b33a-0ca435075c92jpeg"
+                                                        },
+                                                        "next": {
+                                                            "data": {
+                                                                "@class": "modelo.Antena",
+                                                                "id": 13,
+                                                                "nombre": "K",
+                                                                "latitud": 22,
+                                                                "longitud": 11,
+                                                                "foto": "20579c33-ac36-4680-a630-70977b33343cjpeg"
+                                                            },
+                                                            "next": {
+                                                                "data": {
+                                                                    "@class": "modelo.Antena",
+                                                                    "id": 14,
+                                                                    "nombre": "L",
+                                                                    "latitud": 5,
+                                                                    "longitud": 2,
+                                                                    "foto": "f115c6cf-85cd-4610-8334-23a73b7fc7fdjpeg"
+                                                                },
+                                                                "next": {
+                                                                    "data": {
+                                                                        "@class": "modelo.Antena",
+                                                                        "id": 15,
+                                                                        "nombre": "M",
+                                                                        "latitud": 55,
+                                                                        "longitud": 11,
+                                                                        "foto": "9636a120-2a2c-426b-97d2-5baa3f2aee9fjpeg"
+                                                                    },
+                                                                    "next": {
+                                                                        "data": {
+                                                                            "@class": "modelo.Antena",
+                                                                            "id": 16,
+                                                                            "nombre": "N",
+                                                                            "latitud": 5,
+                                                                            "longitud": 2,
+                                                                            "foto": "fba15440-bc45-4437-9ccf-be22be248516jpeg"
+                                                                        },
+                                                                        "next": {
+                                                                            "data": {
+                                                                                "@class": "modelo.Antena",
+                                                                                "id": 17,
+                                                                                "nombre": "O",
+                                                                                "latitud": 66,
+                                                                                "longitud": 22,
+                                                                                "foto": "262cd089-07fa-42c7-bed0-c48b572342a5jpeg"
+                                                                            },
+                                                                            "next": {
+                                                                                "data": {
+                                                                                    "@class": "modelo.Antena",
+                                                                                    "id": 18,
+                                                                                    "nombre": "P",
+                                                                                    "latitud": 11,
+                                                                                    "longitud": 99,
+                                                                                    "foto": "db01d261-9b4e-4e1a-a097-ab18b91e8b10jpeg"
+                                                                                },
+                                                                                "next": {
+                                                                                    "data": {
+                                                                                        "@class": "modelo.Antena",
+                                                                                        "id": 19,
+                                                                                        "nombre": "Q",
+                                                                                        "latitud": 23,
+                                                                                        "longitud": 55,
+                                                                                        "foto": "4b4d78b3-f46c-43a4-9b03-c63a2bab88dbjpeg"
+                                                                                    },
+                                                                                    "next": {
+                                                                                        "data": {
+                                                                                            "@class": "modelo.Antena",
+                                                                                            "id": 20,
+                                                                                            "nombre": "R",
+                                                                                            "latitud": 55,
+                                                                                            "longitud": 88,
+                                                                                            "foto": "5ea9ca27-dfb0-4356-b65d-a0360631f9eajpeg"
+                                                                                        },
+                                                                                        "next": {
+                                                                                            "data": {
+                                                                                                "@class": "modelo.Antena",
+                                                                                                "id": 21,
+                                                                                                "nombre": "S",
+                                                                                                "latitud": 444,
+                                                                                                "longitud": 222,
+                                                                                                "foto": "70c5f23c-5962-4132-af8f-4ef941cfe3e9jpeg"
+                                                                                            },
+                                                                                            "next": {
+                                                                                                "data": {
+                                                                                                    "@class": "modelo.Antena",
+                                                                                                    "id": 22,
+                                                                                                    "nombre": "T",
+                                                                                                    "latitud": 44,
+                                                                                                    "longitud": 66,
+                                                                                                    "foto": "1966fd4a-94dd-407a-a5f8-62b3108fe580jpeg"
+                                                                                                },
+                                                                                                "next": {
+                                                                                                    "data": {
+                                                                                                        "@class": "modelo.Antena",
+                                                                                                        "id": 23,
+                                                                                                        "nombre": "U",
+                                                                                                        "latitud": 1,
+                                                                                                        "longitud": 2,
+                                                                                                        "foto": "4cc5e722-91f6-48d3-bb02-2279a6d210b3jpeg"
+                                                                                                    },
+                                                                                                    "next": {
+                                                                                                        "data": {
+                                                                                                            "@class": "modelo.Antena",
+                                                                                                            "id": 24,
+                                                                                                            "nombre": "W",
+                                                                                                            "latitud": 55,
+                                                                                                            "longitud": 8,
+                                                                                                            "foto": "0e92da6d-9f80-437d-9100-f261a9c9b801jpeg"
+                                                                                                        },
+                                                                                                        "next": {
+                                                                                                            "data": {
+                                                                                                                "@class": "modelo.Antena",
+                                                                                                                "id": 25,
+                                                                                                                "nombre": "Z",
+                                                                                                                "latitud": 53,
+                                                                                                                "longitud": 23,
+                                                                                                                "foto": "0d20eb57-4be9-478a-8ce9-44d7f44ccb9ajpeg"
+                                                                                                            },
+                                                                                                            "next": {
+                                                                                                                "data": {
+                                                                                                                    "@class": "modelo.Antena",
+                                                                                                                    "id": 26,
+                                                                                                                    "nombre": "AA",
+                                                                                                                    "latitud": 356,
+                                                                                                                    "longitud": 341,
+                                                                                                                    "foto": "25786efa-80dc-4de4-b98a-97227700b1e7jpeg"
+                                                                                                                },
+                                                                                                                "next": {
+                                                                                                                    "data": {
+                                                                                                                        "@class": "modelo.Antena",
+                                                                                                                        "id": 27,
+                                                                                                                        "nombre": "BB",
+                                                                                                                        "latitud": 321,
+                                                                                                                        "longitud": 543,
+                                                                                                                        "foto": "80d64a12-b07f-44e2-b3b1-6f839a593a48jpeg"
+                                                                                                                    },
+                                                                                                                    "next": {
+                                                                                                                        "data": {
+                                                                                                                            "@class": "modelo.Antena",
+                                                                                                                            "id": 28,
+                                                                                                                            "nombre": "CC",
+                                                                                                                            "latitud": 555,
+                                                                                                                            "longitud": 2221,
+                                                                                                                            "foto": "ff8b5cf7-8ac1-4ca9-bccb-559479b77e99jpeg"
+                                                                                                                        },
+                                                                                                                        "next": {
+                                                                                                                            "data": {
+                                                                                                                                "@class": "modelo.Antena",
+                                                                                                                                "id": 29,
+                                                                                                                                "nombre": "DD",
+                                                                                                                                "latitud": 544,
+                                                                                                                                "longitud": 122,
+                                                                                                                                "foto": "f46892f7-fbb8-402c-8478-3211c404c5bbjpeg"
+                                                                                                                            },
+                                                                                                                            "next": {
+                                                                                                                                "data": {
+                                                                                                                                    "@class": "modelo.Antena",
+                                                                                                                                    "id": 30,
+                                                                                                                                    "nombre": "EE",
+                                                                                                                                    "latitud": 221,
+                                                                                                                                    "longitud": 443,
+                                                                                                                                    "foto": "84d9cab9-76f8-4fbf-8932-7e771dc2a745jpeg"
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                }
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "last": {
+            "@reference": "..\/head\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next"
+        },
+        "size": 30
+    }
+}
